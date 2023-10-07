@@ -1,0 +1,8 @@
+jupyter
+python-dotenv
+numpy
+scipy
+pandas
+matplotlib
+plotly
+scikit-learn
